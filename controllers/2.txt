@@ -1,0 +1,2 @@
+Title: Post 2
+Content: This is the content of the new post.
